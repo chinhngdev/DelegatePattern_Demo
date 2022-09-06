@@ -1,1 +1,0 @@
-# DelegatePattern_Demo
